@@ -1,6 +1,15 @@
 ## Check out this code live on Heroku:
 https://gentle-wave-56839.herokuapp.com
 
+## Main conponents of the web-app
+Core - React
+Routing/Navigation - React-Rounter
+State Managment - React's Context
+Theme/Design - available/default CSS classes in Bootstrap
+Pop-up Message - Toastify
+AJAX Calls - Axios
+Back-End (REST API) - Python/Flask
+Persistence - PostgresSQL/Pony (ORM)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
