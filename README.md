@@ -5,7 +5,7 @@ https://gentle-wave-56839.herokuapp.com
 username: a@a.com password: asdfg <br/>
 ## Main conponents of the web-app
 Core - React <br/>
-Routing/Navigation - React-Rounter <br/>
+Routing/Navigation - React-Router <br/>
 State Managment - React's Context <br/>
 Theme/Design - available/default CSS classes in Bootstrap <br/>
 Pop-up Message - Toastify <br/>
